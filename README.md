@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Preeti Shaw
+Created by Preeti Shaw.
